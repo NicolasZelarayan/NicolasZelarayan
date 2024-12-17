@@ -8,7 +8,7 @@
 ### 🚀 Sobre mí
 
 ```yaml
-name: "Tu Nombre"
+name: "Nicolas Zelarayan"
 from: "Argentina 🌎"
 role: "Desarrollador de Software Junior"
 interests: ["Node.js", "MySQL", "Linux", "Ciberseguridad"]
