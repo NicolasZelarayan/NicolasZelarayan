@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">¡Hola, soy Nicolas! 👋</h1>
+<p align="center">
+  <em>Desarrollador de software | Apasionado por la tecnología y la ciberseguridad | Lifelong Learner 🚀</em>
+</p>
 
-<!--
-**NicolasZelarayan/NicolasZelarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+name: "Tu Nombre"
+from: "Argentina 🌎"
+role: "Desarrollador de Software Junior"
+interests: ["Node.js", "MySQL", "Linux", "Ciberseguridad"]
+currently_learning: ["Vue.js ⚛️", "Grafana 📊"]
+goal: "Seguir creciendo y explorar el mundo de la ciberseguridad"
