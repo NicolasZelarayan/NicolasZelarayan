@@ -7,6 +7,7 @@
 
 ### 🚀 Sobre mí
 
+```yaml
 name: "Tu Nombre"
 from: "Argentina 🌎"
 role: "Desarrollador de Software Junior"
